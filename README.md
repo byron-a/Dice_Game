@@ -25,7 +25,6 @@ Here the use of DOM was initiated to connect various nodes in the HTML files whi
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flex
 - media queries
 - JavaScript
 
@@ -35,7 +34,8 @@ I want to be better generally as a frontend engineer to open doors for better op
 
 #useful-resources
 WEB MDN DOCS.
-## Author
 
+## Author
+byron-a
 - Website - [Work in progress](https://www.work-in-progress)
 
