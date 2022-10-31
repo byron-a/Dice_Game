@@ -4,24 +4,38 @@ My version of the Dice Game
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
+I used HTML5 for the proper structuring of the pages and styled with CSS,
+The dice box was built using basic svg.
+Two JavaScript files where also used separately for the HTML files.
+Here the use of DOM was initiated to connect various nodes in the HTML files which allowed for behavioural manipulations
 
-### The challenge
+### Links
 
-I was able to give users access to:
+- Solution URL: [Repo](https://github.com/byron-a/Dice_Game.git)
+- Live Site URL: [live page](https://byron-a.github.io/Dice_Game/)
 
-- Distinguish between "unread" and "read" notifications
-- Select "Mark all as read" to toggle the visual state of the unread notifications and set the number of unread messages to zero
-- View the optimal layout for the interface depending on their device's screen size
-- See hover and focus states for all interactive elements on the page
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flex
+- media queries
+- JavaScript
+
+### Continued development
+
+I want to be better generally as a frontend engineer to open doors for better opportunities.
+
+#useful-resources
+WEB MDN DOCS.
+## Author
+
+- Website - [Work in progress](https://www.work-in-progress)
+
