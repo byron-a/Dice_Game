@@ -24,7 +24,7 @@ Here the use of DOM was initiated to connect various nodes in the HTML files whi
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- CSS flex
 - media queries
 - JavaScript
 
